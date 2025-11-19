@@ -35,6 +35,7 @@ git push origin feature/salut
 # (créer et accepter la Pull Request sur GitHub)
 git checkout main
 git pull origin main
+
 <img width="531" height="134" alt="image" src="https://github.com/user-attachments/assets/7e380956-77c5-47dc-9c8c-1439b97f7305" />
 
 
